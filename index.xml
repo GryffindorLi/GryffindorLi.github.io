@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zirui Li</title>
+    <link>https://GryffindorLi.github.io/</link>
+    <description>Recent content on Zirui Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Zirui Li 2022</copyright>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:30 +0200</lastBuildDate><atom:link href="https://GryffindorLi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi Label Classification Using Pattern Exploiting Training</title>
+      <link>https://GryffindorLi.github.io/blogs/multi-label-classification-using-pattern-exploiting-training/</link>
+      <pubDate>Wed, 13 Apr 2022 22:01:30 +0200</pubDate>
+      
+      <guid>https://GryffindorLi.github.io/blogs/multi-label-classification-using-pattern-exploiting-training/</guid>
+      <description>Multi-label Classification using Pattern Exploiting Training Introduction Pattern Exploiting Training We start with a brief introduction to Pattern Exploiting Training(PET). PET is a semi-supervised training method, it reformulates input as cloze questions to help language models better understand the semantics.
+For a mathematics definition, let $M$ be the language model with vocabulary $V$ and mask token $__ \in V$. We define pattern, which is a function $P()$ that takes input $x$ and outputs a phase $P(x)$ that only contains 1 masks.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://GryffindorLi.github.io/about/</link>
+      <pubDate>Wed, 13 Apr 2022 16:33:42 +0200</pubDate>
+      
+      <guid>https://GryffindorLi.github.io/about/</guid>
+      <description>This is Zirui Li, a Master&amp;rsquo;s student from the TU Delft. I obtained my Bachelor&amp;rsquo;s degree in Tianjin University. I was a Machine Learning Engineering intern in Cambricon, where I was working on Neural Network Quantization.
+Currently, I am interested in Inclusive Automatic Speech Recognition. I am supervised by Odette Scharenborg on my graduate thesis, working on Inclusive ASR.</description>
+    </item>
+    
+  </channel>
+</rss>
