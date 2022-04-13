@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zirui Li</title>
-    <link>GryffindorLi.github.io/categories/</link>
+    <link>https://GryffindorLi.github.io/categories/</link>
     <description>Recent content in Categories on Zirui Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Zirui Li 2022</copyright><atom:link href="GryffindorLi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Zirui Li 2022</copyright><atom:link href="https://GryffindorLi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
