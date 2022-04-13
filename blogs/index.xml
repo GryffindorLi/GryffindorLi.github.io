@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Zirui Li</title>
-    <link>https://GryffindorLi.github.io/blogs/</link>
+    <link>https://github.com/GryffindorLi/GryffindorLi.github.io/blogs/</link>
     <description>Recent content in Blogs on Zirui Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Zirui Li 2022</copyright>
-    <lastBuildDate>Wed, 13 Apr 2022 16:39:56 +0200</lastBuildDate><atom:link href="https://GryffindorLi.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 16:39:56 +0200</lastBuildDate><atom:link href="https://github.com/GryffindorLi/GryffindorLi.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS4240 Deep Learning Reproduce</title>
-      <link>https://GryffindorLi.github.io/blogs/cs4240-deep-learning-reproduce/</link>
+      <link>https://github.com/GryffindorLi/GryffindorLi.github.io/blogs/cs4240-deep-learning-reproduce/</link>
       <pubDate>Wed, 13 Apr 2022 16:39:56 +0200</pubDate>
       
-      <guid>https://GryffindorLi.github.io/blogs/cs4240-deep-learning-reproduce/</guid>
+      <guid>https://github.com/GryffindorLi/GryffindorLi.github.io/blogs/cs4240-deep-learning-reproduce/</guid>
       <description>This is a placeholder for deep learning reproduce project.</description>
     </item>
     
