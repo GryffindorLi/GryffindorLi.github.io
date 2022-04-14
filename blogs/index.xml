@@ -14,8 +14,8 @@
       <pubDate>Wed, 13 Apr 2022 22:01:30 +0200</pubDate>
       
       <guid>https://GryffindorLi.github.io/blogs/multi-label-classification-using-pattern-exploiting-training/</guid>
-      <description>Multi-label Classification using Pattern Exploiting Training Introduction Pattern Exploiting Training We start with a brief introduction to Pattern Exploiting Training(PET). PET is a semi-supervised training method, it reformulates input as cloze questions to help language models better understand the semantics.
-For a mathematics definition, let $M$ be the language model with vocabulary $V$ and mask token $__ \in V$. We define pattern, which is a function $P()$ that takes input $x$ and outputs a phase $P(x)$ that only contains 1 masks.</description>
+      <description>Introduction As the years go by, larger models, with billions of parameters are being trained to achieve remarkable few-shot performance. However, training these models requires an enormous amount of compute, which results in a large carbon footprint. In this, we try to use a smaller model to perform multilabel classification, through prompt engineering.
+Pattern Exploiting Training We start with a brief introduction to Pattern Exploiting Training(PET). PET is a semi-supervised training method, it reformulates input as cloze questions to help language models better understand the semantics.</description>
     </item>
     
   </channel>
