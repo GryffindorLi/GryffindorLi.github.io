@@ -44,17 +44,34 @@ class App extends Component {
     });
   }
 
+  getPubData(){
+    $.ajax({
+      url:'/pubs.json',
+      dataType:'json',
+      cache: false,
+      success: function(data){
+        this.setState({pubs: data});
+      }.bind(this),
+      error: function(xhr, status, err){
+        console.log(err);
+        alert(err);
+      }
+    });
+  }
+
   componentDidMount(){
     this.getResumeData();
+    this.getPubData();
   }
 
   render() {
+    console.log(this.state)
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         {/* <Map/> */}
-        <Publication/>
+        <Publication data={this.state.pubs}/>
         <Resume data={this.state.resumeData.resume}/>
         {/* <Portfolio data={this.state.resumeData.portfolio}/> */}
         {/* <Motto data={this.state.resumeData.motto}/> */}

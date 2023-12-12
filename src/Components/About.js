@@ -24,7 +24,16 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I am a graduated MSc from <a href="https://www.tudelft.nl/">Delft University of Technology</a>, where I am adviced by <a href="https://odettescharenborg.wordpress.com/">Dr. Odette Scharenborg</a> at <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/research/speechlab'>SpeechLab, Multimedia Computing Group</a>. My research interest includes making Automatic Speech Recognition (ASR) more inclusive. Prior to TU Delft, I received my bachelor degree at <a href="https://www.tju.edu.cn/"> Tianjin University</a>.</p>
+            <p>
+               I am a graduated MSc from <a href="https://www.tudelft.nl/">Delft University of Technology</a>, 
+               where I am adviced by <a href="https://odettescharenborg.wordpress.com/">Dr. Odette Scharenborg</a> at 
+               <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/research/speechlab'> SpeechLab</a>. 
+               My research interest includes making Automatic Speech Recognition (ASR) more inclusive.
+               Specifically, I am driven to uncover the underlying mechanisms contributing to speech biases 
+               and develop practical solutions applicable to low-resource and zero-resource scenarios.
+               Prior to TU Delft, I received my bachelor degree at <a href="https://www.tju.edu.cn/"> Tianjin University</a>.
+            </p>
+            <p>Currently I am looking for a PhD position in inclusive ASR. If you are interested, please feel free to reach out me.</p>
             {/* <h2>News</h2>
             <p>
             <span><b>05/23/23:</b> I received <a href="https://utm.calendar.utoronto.ca/honours-bachelor-science-hbsc">Honours Bachelor of Science</a> in Computer Science at University of Toronto. </span><br />
