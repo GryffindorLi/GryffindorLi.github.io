@@ -1,0 +1,12 @@
+{
+    "main":[
+    {
+        "title": "Mitigating Regional Accent Bias in End-to-end ASR Systems",
+        "authors": "Zirui Li, Tanvina Patel, Odette Scharenborg",
+        "year": "2023",
+        "url": "",
+        "place": "IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP), 2024",
+        "image_path": "images/publication/guardian-awareness.jpg"
+    }
+]
+}
