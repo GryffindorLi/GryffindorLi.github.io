@@ -25,8 +25,8 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>
-               I am a graduated MSc from <a href="https://www.tudelft.nl/">Delft University of Technology</a>, 
-               where I am adviced by <a href="https://odettescharenborg.wordpress.com/">Dr. Odette Scharenborg</a> at 
+               I am a graduated MSc from <a href="https://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>, 
+               where I was supervised by <a href="https://odettescharenborg.wordpress.com/">Dr. Odette Scharenborg</a> at 
                <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/research/speechlab'> SpeechLab</a>. 
                My research interest includes making Automatic Speech Recognition (ASR) more inclusive.
                Specifically, I am driven to uncover the underlying mechanisms contributing to speech biases 
@@ -34,13 +34,10 @@ class About extends Component {
                Prior to TU Delft, I received my bachelor degree at <a href="https://www.tju.edu.cn/"> Tianjin University</a>.
             </p>
             <p>Currently I am looking for a PhD position in inclusive ASR. If you are interested, please feel free to reach out me.</p>
-            {/* <h2>News</h2>
+            <h2>News</h2>
             <p>
-            <span><b>05/23/23:</b> I received <a href="https://utm.calendar.utoronto.ca/honours-bachelor-science-hbsc">Honours Bachelor of Science</a> in Computer Science at University of Toronto. </span><br />
-            <span><b>04/06/23:</b> I will be starting my Ph.D. at <a href="https://www.ic.gatech.edu/">GATech IC</a>, looking forward to the new journey!</span><br />
-            <span><b>01/30/23:</b> Guardian Awareness paper is accepted to <a href="https://ieeevr.org/2023/">VR '23</a>.</span><br />
-            <span><b>01/06/22:</b> I received <a href="https://web.cs.toronto.edu/undergraduate/scholarships">Daniel Berlin Scholarship</a>.</span><br />
-            </p> */}
+            <span><b>07/11/23:</b> I received MSc degree from TU Delft, with a Master's thesis grade of 8.5/10. </span><br />
+            </p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
