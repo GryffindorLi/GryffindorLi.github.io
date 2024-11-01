@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Li's Homepage"
-description              : "PhD student from Aalto University. Working on Text-to-Speech and Real-time Conversation System."
+description              : "Working on Text-to-Speech, Automatic Speech Recognition, and Real-time Conversation System."
 repository               : "GryffindorLi/GryffindorLi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student at Aalto University"
   location         : "Espoo, Finland"
-  employer         : "Aalto University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "zirui.li@aalto.fi"
