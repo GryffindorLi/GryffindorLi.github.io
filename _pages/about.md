@@ -29,7 +29,7 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 # 📝 Publications 
 
-**WKP**
+**WIP**
 
 
 # 📖 Educations
