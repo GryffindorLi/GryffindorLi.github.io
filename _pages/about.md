@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, welcome to my page.
 
-I'm Zirui Li. I'm a PhD student from [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering) at [Aalto University, Finland](https://www.aalto.fi/en), working with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela). My research interests include Controllable Text-to-Speech (TTS), Automatic Speech Recognition (ASR) on low-resource languages, and real-time conversational systems.
+I'm Zirui Li (李孜睿). I'm a PhD student from [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering) at [Aalto University, Finland](https://www.aalto.fi/en), working with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela). My research interests include Controllable Text-to-Speech (TTS), Automatic Speech Recognition (ASR) on low-resource languages, and real-time conversational systems.
 
 Before joining Aalto University, I was a Backend Software Engineer at [Justeat Takeaway.com](https://www.justeattakeaway.com/). I obtained my Master's degree from [Delft University of Technology, the Netherlands](https://www.tudelft.nl/en/), where I worked with [Dr. Odette Scharenborg](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/odette-scharenborg) on Inclusive Automatic Speech Recognition. I obtained my Bachelor's degree from [Tianjin University](https://www.tju.edu.cn/english/index.htm), China.
 
