@@ -25,6 +25,7 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper *Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams* is accepted by Speech Synthesis Workshop 2025 (SSW13).
 - *2024.10*: &nbsp;🎉🎉 I started as a PhD student at Speech Recognition Group at Aalto University.
 
 # 📝 Publications 
