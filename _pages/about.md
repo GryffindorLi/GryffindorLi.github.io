@@ -30,7 +30,7 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 # 📝 Publications 
 
-**WIP**
+- **Z. Li**, L. Juvela and M. Kurimo, *"Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams"*, in *13th Speech Synthesis Workshop (SSW13)*, 2025. [Arxiv]() [ISCA Archive]() [Code](https://github.com/aalto-speech/PPG2Speech)
 
 
 # 📖 Educations
