@@ -34,9 +34,9 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 
 # 📖 Educations
-- *2024.10 - now*, PhD student, Aalto University.
-- *2021.09 - 2023.07*, MSc in Embedded Systems, Delft University of Technology.
-- *2017.09 - 2021.07*, Beng in Internet of Things Engineering, Tianjin University.
+- *2024.10 - now*, PhD student, Aalto University, Finnland.
+- *2021.09 - 2023.07*, M.Sc in Embedded Systems, Delft University of Technology, the Netherlands.
+- *2017.09 - 2021.07*, B.Eng in Internet of Things Engineering, Tianjin University, China.
 
 
 # 💻 Internships
