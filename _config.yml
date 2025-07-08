@@ -9,7 +9,7 @@
 title                    : "Zirui Li's Homepage"
 description              : "Working on Text-to-Speech, Automatic Speech Recognition, and Real-time Conversation System."
 repository               : "GryffindorLi/GryffindorLi.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Espoo, Finland"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=b-vX_Y4AAAAJ&hl=en&authuser=1"
   email            : "zirui.li@aalto.fi"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
