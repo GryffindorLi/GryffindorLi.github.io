@@ -25,12 +25,13 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 We release *Nord-Parl-TTS*, an open-source TTS dataset for Finnish and Swedish. You're welcomed to check our [demo page](https://gryffindorli.github.io/nord-parl-tts-demo/).
 - *2025.06*: &nbsp;🎉🎉 Our paper *Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams* is accepted by Speech Synthesis Workshop 2025 (SSW13).
 - *2024.10*: &nbsp;🎉🎉 I started as a PhD student at Speech Recognition Group at Aalto University.
 
 # 📝 Publications 
 
-- **Z. Li**, L. Juvela and M. Kurimo, *"Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams"*, in *13th Speech Synthesis Workshop (SSW13)*, 2025. [Arxiv](https://arxiv.org/abs/2507.02115)  [Code](https://github.com/aalto-speech/PPG2Speech)  [ISCA Archive]()
+- **Z. Li**, L. Juvela and M. Kurimo, *"Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams"*, in *13th Speech Synthesis Workshop (SSW13)*, 2025. [Arxiv](https://arxiv.org/abs/2507.02115)  [Code](https://github.com/aalto-speech/PPG2Speech)  [ISCA Archive](https://www.isca-archive.org/ssw_2025/li25_ssw.html#)
 
 
 # 📖 Educations
