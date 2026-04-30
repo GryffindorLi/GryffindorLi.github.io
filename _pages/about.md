@@ -25,17 +25,19 @@ Before joining Aalto University, I was a Backend Software Engineer at [Justeat T
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper, *Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech*, has been accepted by ICASSP 2026. See you in Barcelona🇪🇸.
 - *2025.09*: &nbsp;🎉🎉 We release *Nord-Parl-TTS*, an open-source TTS dataset for Finnish and Swedish. You're welcomed to check our [demo page](https://gryffindorli.github.io/nord-parl-tts-demo/).
 - *2025.06*: &nbsp;🎉🎉 Our paper *Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams* is accepted by Speech Synthesis Workshop 2025 (SSW13).
 - *2024.10*: &nbsp;🎉🎉 I started as a PhD student at Speech Recognition Group at Aalto University.
 
-# 📝 Publications 
+# 📝 Publications
 
+- **Z. Li**, J. Edlund, Y. Gu, N. Phan, L. Juvela and M. Kurimo, "Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech," in *ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11465122) [Demo](https://gryffindorli.github.io/nord-parl-tts-demo/) [Dataset](https://huggingface.co/datasets/Aalto-Speech-Synthesis/Nord-Parl-TTS)
 - **Z. Li**, L. Juvela and M. Kurimo, *"Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams"*, in *13th Speech Synthesis Workshop (SSW13)*, 2025. [Arxiv](https://arxiv.org/abs/2507.02115)  [Code](https://github.com/aalto-speech/PPG2Speech)  [ISCA Archive](https://www.isca-archive.org/ssw_2025/li25_ssw.html#)
 
 
 # 📖 Educations
-- *2024.10 - now*, PhD student, Aalto University, Finnland.
+- *2024.10 - now*, PhD student, Aalto University, Finland.
 - *2021.09 - 2023.07*, M.Sc in Embedded Systems, Delft University of Technology, the Netherlands.
 - *2017.09 - 2021.07*, B.Eng in Internet of Things Engineering, Tianjin University, China.
 
