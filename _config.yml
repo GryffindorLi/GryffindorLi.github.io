@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Li's Homepage"
-description              : "Working on Text-to-Speech, Automatic Speech Recognition, and Real-time Conversation System."
+description              : "Controllable speech synthesis and real-time speech feedback for second-language learners."
 repository               : "GryffindorLi/GryffindorLi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zirui Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student at Aalto University"
+  bio              : "Doctoral researcher at Aalto University"
   location         : "Espoo, Finland"
   employer         : 
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "zirui-l-1741041b9"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0005-0781-4431"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
