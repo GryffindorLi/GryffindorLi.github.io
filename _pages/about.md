@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zirui Li (李孜睿), a doctoral researcher at [Aalto University](https://www.aalto.fi/en/) working with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela). My research is primarily about controllable text-to-speech (TTS) at the prosodic and phonetic levels for second-language learning; TTS for low-resource languages; and real-time speech assessment and feedback systems. I'm also interested in developing large-scale speech datasets and open-source models for Nordic TTS.
+I'm Zirui Li (李孜睿), a doctoral researcher at [Aalto University](https://www.aalto.fi/en/) working with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela). My research is primarily about controllable text-to-speech (TTS) at the prosodic and phonetic levels for second-language learning and real-time speech assessment and feedback systems. I'm also interested in developing large-scale speech datasets and open-source models for Nordic TTS.
 
 Before joining Aalto, I obtained an MSc in Embedded Systems at [Delft University of Technology](https://www.tudelft.nl/en/), where I was supervised by [Prof. Odette Scharenborg](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/odette-scharenborg) and studied regional accent bias in speech recognition. I obtained a BEng in Internet of Things Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm).
 
@@ -30,6 +30,7 @@ Before joining Aalto, I obtained an MSc in Embedded Systems at [Delft University
 
 # 📝 Publications
 
+- **Z. Li**, R. Silas, L. Juvela, T. Bäckström and M. Kurimo, *"EmphTTS: An Emphasis-Control TTS with Reinforcement Learning"*, arXiv:2609.27599, 2026. **Under review**. [Arxiv](https://arxiv.org/abs/2609.27599) [Demo](https://aalto-speech.github.io/EmphTTS/) [Code](https://github.com/aalto-speech/EmphTTS)
 - **Z. Li**, J. Edlund, Y. Gu, N. Phan, L. Juvela and M. Kurimo, "Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech," in *ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11465122) [Demo](https://gryffindorli.github.io/nord-parl-tts-demo/) [Dataset](https://huggingface.co/datasets/Aalto-Speech-Synthesis/Nord-Parl-TTS)
 - **Z. Li**, L. Juvela and M. Kurimo, *"Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams"*, in *13th Speech Synthesis Workshop (SSW13)*, 2025. [Arxiv](https://arxiv.org/abs/2507.02115)  [Code](https://github.com/aalto-speech/PPG2Speech)  [ISCA Archive](https://www.isca-archive.org/ssw_2025/li25_ssw.html#)
 
