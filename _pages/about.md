@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zirui Li (李孜睿), a doctoral researcher in the [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering) at [Aalto University](https://www.aalto.fi/en). I work with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela) on an interactive assistant that gives second-language learners real-time feedback on their speech. My research explores how to edit individual sounds and control word emphasis in synthesized speech. I also work on text-to-speech for low-resource languages and evaluate how well language models detect mispronunciations.
+I'm Zirui Li (李孜睿), a doctoral researcher at [Aalto University](https://www.aalto.fi/en/) working with [Prof. Mikko Kurimo](https://www.aalto.fi/en/people/mikko-kurimo) and [Dr. Lauri Juvela](https://www.aalto.fi/en/people/lauri-juvela). My research is primarily about controllable text-to-speech (TTS) at the prosodic and phonetic levels for second-language learning; TTS for low-resource languages; and real-time speech assessment and feedback systems. I'm also interested in developing large-scale speech datasets and open-source models for Nordic TTS.
 
-Before joining Aalto, I worked on payment systems as a software engineer at [Just Eat Takeaway.com](https://www.justeattakeaway.com/). I earned my MSc in Embedded Systems at [Delft University of Technology](https://www.tudelft.nl/en/), where my thesis with [Prof. Odette Scharenborg](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/odette-scharenborg) examined regional accent bias in French and German speech recognition. I hold a BEng in Internet of Things Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm).
+Before joining Aalto, I obtained an MSc in Embedded Systems at [Delft University of Technology](https://www.tudelft.nl/en/), where I was supervised by [Prof. Odette Scharenborg](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/odette-scharenborg) and studied regional accent bias in speech recognition. I obtained a BEng in Internet of Things Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm).
 
 
 # 🔥 News
